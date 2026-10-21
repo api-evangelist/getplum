@@ -1,0 +1,18 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/getplum/integrations
+- https://zapier.com/apps/plum-ai/integrations
+- https://n8n.io/integrations/getplum/
+- https://composio.dev/toolkits/getplum
+- https://monid.ai/tools/getplum
+checked:
+- https://composio.dev/toolkits/getplum
+- https://monid.ai/tools/getplum
+- https://n8n.io/integrations/getplum/
+- https://zapier.com/apps/getplum/integrations
+- https://zapier.com/apps/plum-ai/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
